@@ -1,9 +1,7 @@
-Here's your updated README.md file with the ERD image included:
+# Kenyan Clinic Management System
+![ERD Diagram](clinicdatabaseimage.png)
 
 ```markdown
-# Kenyan Clinic Management System
-
-![Database ER Diagram](clinicdatabaseimage.png)
 
 ## Project Description
 A comprehensive database system for managing patient records, doctor appointments, and treatments in a Kenyan clinical setting. The system tracks patient visits, doctor specializations, and treatments administered with a focus on common Kenyan healthcare scenarios.
@@ -28,7 +26,7 @@ The Entity Relationship Diagram above shows the complete structure of the databa
 ### Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/kenyan-clinic-system.git
+git clone https://github.com/toshlewi/clinic-database
 cd kenyan-clinic-system
 ```
 
